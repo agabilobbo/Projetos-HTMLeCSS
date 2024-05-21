@@ -1,2 +1,2 @@
-# Projetos-HTML
-Projetos e estudos que desenvolvo em HTML
+# Projetos-HTMLeCSS
+Projetos e estudos que desenvolvo em HTML e CSS
